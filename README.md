@@ -9,7 +9,9 @@ numpy
 matplotlib
 scikit-image
 tqdm
+
 2.Dataset
+
 2.1Image storage format
 |PATH_TO_DATASET_train/
 |----A/
@@ -56,8 +58,10 @@ tqdm
 |  |----...
 |  |----IMGn_val.jpg
 |----img.txt
+
 2.2LEVIR-CD dataset
 LEVIR-CD can be download from https://justchenhao.github.io/LEVIR/
+
 2.3Img.txt
 2.3.1Content of img.txt
 IMG1.jpg
